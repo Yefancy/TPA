@@ -1,0 +1,17 @@
+.data-row{
+    margin-bottom: 2px;
+}
+
+.data-row:hover{
+    box-shadow: 0 0 0 2px rgb(255, 0, 0);
+}
+
+.data-row-selected{
+    background-color: #c2c2c2;
+}
+
+.overview-data-row {
+    height: 1px;
+}
+
+
